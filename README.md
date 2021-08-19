@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zokirkhon1002
 - 👀 I’m interested in Coding and Graphics
+- 👀 you can see my profile in linkedin: https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202/
 - 🌱 I’m currently learning JavaScript and ReactJs
 - 📫 How to reach me 
 Zokirxonkotibxanov@gmail.com 
