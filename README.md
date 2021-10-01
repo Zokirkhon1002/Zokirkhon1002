@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @Zokirkhon1002
 - 👀 I’m interested in Coding and Graphics
-- 👀 you can see my profile in linkedin: https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202/
 - 🌱 I’m currently learning JavaScript and ReactJs
 - 📫 How to reach me 
-Zokirxonkotibxanov@gmail.com 
+Phone: <a href="tel:+821080891816">+821080891816</a>
+Email: <a href="email:zokirxonkotibxanov@gmail.com">zokirxonkotibxanov@gmail.com</a>
+Linked in: <a href="https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202/">Zokirkhon Kotibkhonov</a>
+Telegram: <a href="https://t.me/Zokirkhann1002">Zokirkhann1002</a>
+Instagram: <a href="https://www.instagram.com/zokirkhan1002/">Zokirkhan1002</a>
+Twitter: <a href="https://mobile.twitter.com/Zokirkhan1">Zokirkhan1</a>
+Facebook: <a href="https://m.facebook.com/Zokirkhan102">Zokirkhan102</a>
+
 
 
 <!---
