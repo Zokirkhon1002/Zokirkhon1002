@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zokirkhon1002
 - 👀 I’m interested in Coding and Graphics
-- 🌱 I’m currently learning ReactJs and Python
+- 🌱 I’m currently learning ReactJs and Python next steps are NodeJs, Mongodb and AI.
 - 📫 How to reach me 
 <br>Phone: <a href="tel:+821080891816">+821080891816</a>
 <br>Email: <a href="email:zokirxonkotibxanov@gmail.com">zokirxonkotibxanov@gmail.com</a>
