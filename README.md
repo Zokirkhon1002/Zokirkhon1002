@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zokirkhon1002
+- 👋 Hi, I’m Zokirkhon
 - 👀 I’m interested in Coding and Problem Solving
 - 🌱 I’m currently learning NodeJs, Mongodb and Python next steps are Machine Learning and Deep Learning.
 - 📫 How to reach me 
