@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Problem Solving
 - 🌱 I’m currently learning NodeJs, Mongodb and Python next steps are Machine Learning and Deep Learning.
 - 📫 How to reach me 
-<br>Phone: <a href="tel:01080891816">+821080891816</a>
+<br>Phone: <a href="tel:821080891816">+821080891816</a>
 <br>Email: <a href="email:zokirxonkotibxanov@gmail.com">zokirxonkotibxanov@gmail.com</a>
 <br>Linked in: <a href="https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202/">Zokirkhon Kotibkhonov</a>
 <br>Telegram: <a href="https://t.me/Zokirkhann1002">Zokirkhann1002</a>
