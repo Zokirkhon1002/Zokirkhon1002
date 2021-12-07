@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Zokirkhon
 - 👀 I’m interested in Coding and Problem Solving
-- 🌱 I’m currently learning NodeJs, Mongodb and Python next steps are AI and React-Native.
+- 👍 I've learned [Html, Css, Sass, Bootstrap, JavaScript, ReactJS, Python programming]
+- 🌱 I’m currently learning NodeJs, Mongodb and Algorithms & Data Structure next steps are AI and React-Native.
 - 📫 How to reach me 
 <br>Phone: <a href="tel:821080891816">+821080891816</a>
 <br>Email: <a href="email:zokirxonkotibxanov@gmail.com">zokirxonkotibxanov@gmail.com</a>
