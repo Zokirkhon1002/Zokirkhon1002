@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zokirkhon
 - 👀 I’m interested in Coding and Problem Solving
 - 👍 I've learned [Html, Css, Sass, Bootstrap, JavaScript, ReactJS, Redux toolkit, NodeJS and Python programming]
-- 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack.
-- 🌱 I’m currently Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
+- 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and 
+- 🌱 learning Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
 - 📫 How to reach me 
 <br>Phone: <a href="tel:821080891816">+821080891816</a>
 <br>Email: <a href="email:zokirxonkotibxanov@gmail.com">zokirxonkotibxanov@gmail.com</a>
