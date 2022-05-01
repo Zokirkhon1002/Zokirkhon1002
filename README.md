@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zokirkhon
 - 👀 I’m interested in Coding and Problem Solving
-- 👍 Like professional knowledge of technologies in html, css, sass, bootstrap, JavaScript, Redux toolkit, TypeScript Python, MERN Stack (MongoDb, Express, React, NodeJs).
+- 👍 Like professional knowledge of technologies in html, css, sass, bootstrap, JavaScript, Redux toolkit, TypeScript, Python, MERN Stack (MongoDb, Express, React, NodeJs).
 - 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and 
 - 🌱 learning Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
 - 📫 How to reach me 
