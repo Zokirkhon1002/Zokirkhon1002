@@ -9,7 +9,7 @@
 
 - 🌱 learning Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
 
-- ⚡ Quote: Living, learning, & leveling up!
+- ⚡ Quote: learning, traveling & healthy life with 🏓!
 
 - 📫 How to reach me:
 <br />
