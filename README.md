@@ -48,7 +48,7 @@
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-⭐️ From [Zokirkhon1002](https://github.com/Zokirkhon1002) ⭐️
+⭐️ From [Zokirkhon1002](https://github.com/Zokirkhon1002?tab=repositories) ⭐️
 -------
 
 <!---
