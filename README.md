@@ -7,14 +7,8 @@
 - 🌱 learning Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
 - ⚡ Quote: Living, learning, & leveling up!
 - 📫 How to reach me:
- - Phone: [+8210-8089-1816](tel:+821080891816)
- - Github: [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/github.png" alt="github logo" width="40"> Zokirkhan1002](https://github.com/Zokirkhon1002)
- - Email: [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/email.png" alt="gmaillogo" width="40"> zokirxonkotibxanov@gmail.com](zokirxonkotibxanov@gmail.com)
- - LinkedIn: [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/link.png" alt="linkedin logo" width="40"> Zokirkhon Kotibkhonov](https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202)
- - Telegram: [Zokirkhann1002](https://t.me/Zokirkhann1002)
- - Instagram: [zokirkhan1002](https://www.instagram.com/zokirkhan1002)
- - Twitter: [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/Twitter.png" width="40"> Zokirkhan1](https://mobile.twitter.com/Zokirkhan1)
- - Facebook: [Zokirkhan102](https://m.facebook.com/Zokirkhan102)
+ - Phone: [+8210-8089-1816](+821080891816)
+ - [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/github.png" alt="github logo" width="40">](https://github.com/Zokirkhon1002) [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/email.png" alt="gmaillogo" width="40">](zokirxonkotibxanov@gmail.com) [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202) [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/telegram.png" alt="linkedin logo" width="40">](https://t.me/Zokirkhann1002) [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/instagram.png" alt="linkedin logo" width="40">](https://www.instagram.com/zokirkhan1002) [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/Twitter.png" width="40">](https://mobile.twitter.com/Zokirkhan1) [<img src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/fb.png" alt="linkedin logo" width="40">](https://m.facebook.com/Zokirkhan102)
  
 
 
