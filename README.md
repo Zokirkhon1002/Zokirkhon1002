@@ -1,16 +1,53 @@
 # 👋 Hi, I’m Zokirkhon
-# <img align="right" alt="Hello world gif" src="./assets/animation_500_l38ue58m.gif" height="350" width="350" />
+## <img style="margin:10px" align="right" alt="Hello world gif" src="./assets/hi.gif" height="300" width="400" />
 
 - 👀 I’m interested in Coding and Problem Solving
+
 - 👍 Like professional knowledge of technologies in html, css, sass, bootstrap, JavaScript, Redux toolkit, TypeScript, Python, MERN Stack (MongoDb, Express, React, NodeJs).
-- 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and 
+
+- 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and
+
 - 🌱 learning Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
+
 - ⚡ Quote: Living, learning, & leveling up!
+
 - 📫 How to reach me:
- - Phone: [+8210-8089-1816](+821080891816)
- - [<img src="./assets/github.png" alt="github logo" width="40">](https://github.com/Zokirkhon1002) [<img src="./assets/email.png" alt="gmaillogo" width="40">](mailto:zokirxonkotibxanov@gmail.com) [<img src="./assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202) [<img src="./assets/telegram.png" alt="linkedin logo" width="40">](https://t.me/Zokirkhann1002) [<img src="./assets/instagram.png" alt="linkedin logo" width="40">](https://www.instagram.com/zokirkhan1002) [<img src="./assets/Twitter.png" width="40">](https://mobile.twitter.com/Zokirkhan1) [<img src="./assets/fb.png" alt="linkedin logo" width="40">](https://m.facebook.com/Zokirkhan102)
+<br />
+
+ ## - [<img src="./assets/tel.png" alt="github logo" width="40">](tel:821080891816) [<img src="./assets/github.png" alt="github logo" width="40">](https://github.com/Zokirkhon1002) [<img src="./assets/email.png" alt="gmaillogo" width="40">](mailto:zokirxonkotibxanov@gmail.com) [<img src="./assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202) [<img src="./assets/telegram.png" alt="linkedin logo" width="40">](https://t.me/Zokirkhann1002) [<img src="./assets/instagram.png" alt="linkedin logo" width="40">](https://www.instagram.com/zokirkhan1002) [<img src="./assets/Twitter.png" width="40">](https://mobile.twitter.com/Zokirkhan1) [<img src="./assets/fb.png" alt="linkedin logo" width="40">](https://m.facebook.com/Zokirkhan102)
  
 
+ <br />
+ <br />
+
+ ## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50">
+ <br /> 
+
+ ## How about some stats ? 
+
+
+
+
+ <h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
+  
+  <br>
+
+  <p align="center">
+   <a href="https://github.com/Zokirkhon1002">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zokirkhon1002&show_icons=true&theme=midnight-white&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
+  </a>
+</p>
+</h3>
+
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+⭐️ From [Zokirkhon1002](https://github.com/Zokirkhon1002) ⭐️
+-------
 
 <!---
 Zokirkhon1002/Zokirkhon1002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
