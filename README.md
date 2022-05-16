@@ -13,6 +13,9 @@
 <br>Facebook: <a href="https://m.facebook.com/Zokirkhan102">Zokirkhan102</a>
 
 
+<figure class="video_container">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901" style="border: 1px solid black"></iframe>
+</figure>
 <iframe width="560" height="315" src="https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901" ></iframe>
 
 <!---
