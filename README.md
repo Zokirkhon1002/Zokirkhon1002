@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Zokirkhon
-<img align="right" alt="Hello world gif" src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/animation_500_l38ue58m.gif" height="350" width="350" />
+# <img align="right" alt="Hello world gif" src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/animation_500_l38ue58m.gif" height="350" width="350" />
+
 - 👀 I’m interested in Coding and Problem Solving
 - 👍 Like professional knowledge of technologies in html, css, sass, bootstrap, JavaScript, Redux toolkit, TypeScript, Python, MERN Stack (MongoDb, Express, React, NodeJs).
 - 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and 
