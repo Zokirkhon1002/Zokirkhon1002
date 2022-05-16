@@ -14,7 +14,7 @@
 - 📫 How to reach me:
 <br />
 
- ## - [<img src="./assets/tel.png" alt="github logo" width="40">](tel:821080891816) [<img src="./assets/github.png" alt="github logo" width="40">](https://github.com/Zokirkhon1002) [<img src="./assets/email.png" alt="gmaillogo" width="40">](mailto:zokirxonkotibxanov@gmail.com) [<img src="./assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202) [<img src="./assets/telegram.png" alt="linkedin logo" width="40">](https://t.me/Zokirkhann1002) [<img src="./assets/instagram.png" alt="linkedin logo" width="40">](https://www.instagram.com/zokirkhan1002) [<img src="./assets/Twitter.png" width="40">](https://mobile.twitter.com/Zokirkhan1) [<img src="./assets/fb.png" alt="linkedin logo" width="40">](https://m.facebook.com/Zokirkhan102)
+ ## [<img src="./assets/tel.png" alt="github logo" width="40">](tel:821080891816) [<img src="./assets/github.png" alt="github logo" width="40">](https://github.com/Zokirkhon1002) [<img src="./assets/email.png" alt="gmaillogo" width="40">](mailto:zokirxonkotibxanov@gmail.com) [<img src="./assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/zokirkhon-kotibkhonov-2997b1202) [<img src="./assets/telegram.png" alt="linkedin logo" width="40">](https://t.me/Zokirkhann1002) [<img src="./assets/instagram.png" alt="linkedin logo" width="40">](https://www.instagram.com/zokirkhan1002) [<img src="./assets/Twitter.png" width="40">](https://mobile.twitter.com/Zokirkhan1) [<img src="./assets/fb.png" alt="linkedin logo" width="40">](https://m.facebook.com/Zokirkhan102)
  
 
  <br />
