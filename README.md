@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and 
 - 🌱 learning Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
 - ⚡ Quote: Living, learning, & leveling up!
-    <img align="right" alt="Hello world gif" src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/animation_500_l38ue58m.gif" height="250" width="320" />
+    <img align="right" alt="Hello world gif" src="https://github.com/Zokirkhon1002/Zokirkhon1002/blob/main/assets/animation_500_l38ue58m.gif" height="350" width="350" />
 - 📫 How to reach me:
  - Phone: [+8210-8089-1816](tel:+821080891816)
  - Email: [zokirxonkotibxanov@gmail.com](email:zokirxonkotibxanov@gmail.com)
