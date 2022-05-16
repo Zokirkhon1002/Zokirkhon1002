@@ -13,6 +13,8 @@
 <br>Facebook: <a href="https://m.facebook.com/Zokirkhan102">Zokirkhan102</a>
 
 
+<a style="cursor:pointer" href="https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901" target="_blank"> <iframe width="560" height="315" src="https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901" ></iframe></a>
+
 <!---
 Zokirkhon1002/Zokirkhon1002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
