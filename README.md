@@ -41,6 +41,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zokirkhon1002&" alt="Zokirkhon1002" /></p>
 </h3>
 
 
