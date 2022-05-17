@@ -32,6 +32,10 @@
   <summary>
     📈  &nbsp; My GitHub Stats
   </summary> 
+  <br>
+
+   ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zokirkhon1002&label=Profile%20views&color=0e75b6&style=flat" alt="Zokirkhon1002" /> </p>
+
   
   <br>
 
