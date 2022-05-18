@@ -41,11 +41,16 @@
 
   <p align="center">
    <a href="https://github.com/Zokirkhon1002">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zokirkhon1002&show_icons=true&theme=midnight-white&count_private=true" >
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zokirkhon1002&show_icons=true&theme=midnight-white&count_private=true" >
   </a>
    <a href="https://github.com/Zokirkhon1002">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zokirkhon1002&" alt="Zokirkhon1002" />
   </a>
+   <a href="https://github.com/Zokirkhon1002">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
+  </a>
+   
+   
 </p>
 
 </h3>
