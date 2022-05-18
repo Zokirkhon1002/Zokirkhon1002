@@ -47,7 +47,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zokirkhon1002&" alt="Zokirkhon1002" />
   </a>
    <a style="margin-top: 5px" href="https://github.com/Zokirkhon1002">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
+    <img style="margin-top: 5px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
   </a>
    
    
