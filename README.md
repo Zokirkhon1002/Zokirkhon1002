@@ -42,7 +42,7 @@
   <p align="center">
    <a href="https://github.com/Zokirkhon1002">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zokirkhon1002&show_icons=true&theme=midnight-white&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon1002" />
   </a>
 </p>
 
