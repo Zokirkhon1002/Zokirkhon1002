@@ -1,4 +1,7 @@
 # 👋 Hi, I’m Zokirkhon
+<!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBI6_Pnm_tBbcRiRGjXLl3w?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
+![Connect on Twitter](https://img.shields.io/twitter/follow/Zokirkhan1?logo=Twitter&color=1DA1F2&style=for-the-badge)
 ## <img style="margin:10px" align="right" alt="Hello world gif" src="./assets/hi.gif" height="300" width="400" />
 
 - 👀 I’m interested in Coding and Problem Solving
