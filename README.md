@@ -6,11 +6,14 @@
 
 - 👀 I’m interested in Coding and Problem Solving
 
-- 👍 Like professional knowledge of technologies in html, css, sass, bootstrap, JavaScript, Redux toolkit, TypeScript, Python, MERN Stack (MongoDb, Express, React, NodeJs).
+- 💻 TECHNICAL PROFICIENCY: 
+  👨🏻‍💻 participated projects and gained experience in Frontend and Backend. Helped others code like bugs fixing in particular way, especially by filtering, searching, sorting, data overflowing, working with API and requesting like (GET, POST, PUT, ...).
 
-- 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and
+- 👍 Like professional knowledge of technologies in JavaScript, React, Redux toolkit, NodeJS, ExpressJS and MongoDB. learned TypeScript, Python and more JavaScript frameworks: express-handle-bars, EJS, jestJS, Joi, jwt, mongoose, jim and so on.
 
-- 🌱 learning Nodejs in advanced level and Algorithms & Data Structure next steps are AI and React-Native.
+- 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and converting figma designs to html, css and Javascript.
+
+- 🌱 I didn't stop to learn, also I'm learning, React Native, NodeJS in advanced level and Algorithms && Data structures in JavaScript next step React-Native.
 
 - ⚡ Quote: learning, traveling & healthy life with 🏓!
 
@@ -33,7 +36,7 @@
 
  <h3>
   <summary>
-    📈  &nbsp; My GitHub Stats
+    📈  &nbsp; My GitHub Statistics
   </summary> 
   <br>
 
@@ -42,15 +45,17 @@
   
   <br>
 
-  <p align="center">
-   <a href="https://github.com/Zokirkhon1002">
+  <p>
+   <a align="center" style="text-align:center;" href="https://github.com/Zokirkhon1002">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zokirkhon1002&show_icons=true&theme=midnight-white&count_private=true" >
   </a>
-   <a href="https://github.com/Zokirkhon1002">
+  <br>
+   <a style="text-align:center;" href="https://github.com/Zokirkhon1002">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zokirkhon1002&" alt="Zokirkhon1002" />
   </a>
-   <a style="margin-top: 5px" href="https://github.com/Zokirkhon1002">
-    <img style="margin-top: 5px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
+  <br>
+   <a style="text-align:center;" href="https://github.com/Zokirkhon1002">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
   </a>
    
    
