@@ -7,7 +7,7 @@
 - 👀 I’m interested in Coding and Problem Solving
 
 - 💻 TECHNICAL PROFICIENCY: 
-  👨🏻‍💻 participated projects and gained experience in Frontend and Backend. Helped others code like bugs fixing in particular way, especially by filtering, searching, sorting, data overflowing, working with API and requesting like (GET, POST, PUT, ...).
+  👨🏻‍💻 participated projects and gained experience in Frontend and Backend. Helped others code like bugs fixing in particular way, especially by filtering, searching, sorting, data overflowing, working with API.
 
 - 👍 Like professional knowledge of technologies in JavaScript, React, Redux toolkit, NodeJS, ExpressJS and MongoDB. learned TypeScript, Python and more JavaScript frameworks: express-handle-bars, EJS, jestJS, Joi, jwt, mongoose, jim and so on.
 
