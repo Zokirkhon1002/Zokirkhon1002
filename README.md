@@ -55,7 +55,7 @@
   </a>
   <br>
    <br>
-   <a style="text-align:center; margin-top: 10px" href="https://github.com/Zokirkhon1002">
+   <a style="text-align:center; margin-top: 10px" href="-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
   </a>
    
