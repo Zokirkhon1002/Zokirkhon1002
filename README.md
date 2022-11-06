@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 Currenly I'm doing some practices with MERN Stack and converting figma designs to html, css and Javascript.
 
-- 🌱 I didn't stop to learn, also I'm learning, React Native, NodeJS in advanced level and Algorithms && Data structures in JavaScript next step React-Native.
+- 🌱 I didn't stop to learn, also I'm learning C#, NodeJS in advanced level and Algorithms && Data structures in JavaScript next step .NET and AI.
 
 - ⚡ Quote: learning, traveling & healthy life with 🏓!
 
