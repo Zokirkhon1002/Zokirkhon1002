@@ -56,7 +56,7 @@
   <br>
    <br>
    <a style="text-align:center; margin-top: 10px" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact" alt="Zokirkhon" />
+   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zokirkhon1002&show_icons=true&theme=midnight-white&layout=compact&langs_count=8" alt="Zokirkhon" />
   </a>
    
    
